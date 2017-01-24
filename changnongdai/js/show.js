@@ -17,7 +17,7 @@ window.onload = function () {
             return elements;  
         };  
     } 
-
+    
 
     var oDiv = document.getElementById('nav');
     var aLi = oDiv.getElementsByTagName('li');
